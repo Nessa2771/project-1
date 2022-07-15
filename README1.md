@@ -1,0 +1,2 @@
+# Code Refactor Starter Code
+This site is designed to helpme with HTML, GIT and CSS. It was very challenging but I learned a lot. One things I discovered was how important it is to clean up code. Having organized code makes things easier to understand. I also leanred how to remove duplicates.
